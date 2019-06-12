@@ -2,7 +2,7 @@
 class ControllerData extends ControllerBase {
 
     protected function show() {
-        $templater->display("viewer.tpl");
+        $templater->display("data.tpl");
     }
 
 }
