@@ -14,7 +14,4 @@ define ('SITE_URL', 'http://simvc.test');
 
 define ('cache_enable', false);
 
-define ('admin_login', 'admin');
-define ('admin_password', '123');
-define('admin_page_size', '12');
 ?>

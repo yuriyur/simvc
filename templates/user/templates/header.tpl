@@ -3,7 +3,7 @@
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <title>Simvc</title>
-    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="/templates/styles/style.css">
 </head>
 
 <div id="wrapper">
